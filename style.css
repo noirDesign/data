@@ -28,6 +28,7 @@ img:hover {
 
 .icons img {
     height: 60px;
+    border-radius: 30px;
     margin: 5px;
 }
 
