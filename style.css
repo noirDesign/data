@@ -26,9 +26,8 @@ img:hover {
     margin: 5px;
 }
 
-.avatares img {
-    width: 60px;
-    border-radius: 30px;
+.icons img {
+    height: 60px;
     margin: 5px;
 }
 
