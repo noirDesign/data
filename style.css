@@ -23,14 +23,16 @@ img:hover {
     width: 220px;
     height: 100% !important;
     border-radius: 30px;
-    margin: 5px;
 }
 
 .icons img {
     height: 60px;
-    border-radius: 30px;
-    margin: 5px;
 }
+
+.side img{
+    width: 90px;
+}
+
 
 ::-webkit-scrollbar {
     display: none;
